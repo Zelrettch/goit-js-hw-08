@@ -19,6 +19,7 @@ ul {
   padding: 24px 156px;
   margin: 0 auto;
   gap: 24px;
+  justify-content: center;
 }
 
 .card {
